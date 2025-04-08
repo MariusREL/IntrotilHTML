@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: solid white 1px;
+}
+
+body {
+  background-color: rgb(42, 31, 53);
+  color: rgb(224, 204, 174);
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  border: solid #b95b5b 2px;
+  line-height: 1.5;
+}
+img {
+  max-width: 100%;
+  margin-inline: 20%;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 25;
+}
+h2,
+h3,
+h4 {
+  text-align: center;
+}
+figure {
+  margin-inline: 5;
+  border-radius: 30;
+  padding: 20px;
+  border: solid 2px;
+}
